@@ -13,15 +13,19 @@ main section {
 .welcome {
   grid-column: span 2;
   border: 1px solid black;
+  line-height: 1.5rem;
 }
 
 .intro {
   grid-column: span 1;
   border: 1px solid black;
+  line-height: 1.5rem;
 }
 
 .links {
   grid-column: span 1;
+  line-height: 1.5rem;
+  padding-left: 1rem;
 }
 
 .map {
